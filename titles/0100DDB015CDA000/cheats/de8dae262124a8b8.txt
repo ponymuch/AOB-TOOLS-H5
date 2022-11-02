@@ -1,0 +1,15 @@
+[enermies dont attack on]
+04000000 02C614C8 D503201F
+
+turn on the code only in the fight
+
+[enermies dont attack off]
+04000000 02C614C8 7100011F
+
+turn off code to hit enemies they stay put
+
+[damager normal 1p to enermies]
+04000000 00912EB4 1E2E1000
+
+[damager 31x 1p to enermies]
+04000000 00912EB4 1E27F000

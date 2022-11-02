@@ -1,0 +1,12 @@
+{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}
+
+[invinicble]
+04100000 758B8D14 447A0000
+
+[Inf Class Ability usage(aka no cooldown)]
+04100000 758B8A68 00000000
+
+[flying duration(witch or Pirate special ability)]
+80000002
+04100000 758B8954 44A28000
+20000000

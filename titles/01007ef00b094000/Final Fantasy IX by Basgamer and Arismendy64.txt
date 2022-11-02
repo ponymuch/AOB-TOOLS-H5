@@ -1,0 +1,257 @@
+Item list ( 00 to FE
+
+00 : Hammer
+01 : Dagger
+02 : Mage Masher
+03 : Mythril Dagger
+04 : Gladius
+05 : Zorlin Shape
+06 : Orichalcon
+07 : Butterfly Sword
+08 : The Ogre
+09 : Exploda
+0A : Rune Tooth
+0B : Angel BLess
+0C : Sargatanas
+0D : Masamune
+0E : The Tower
+0F : Ultima Weapon
+10 : Broadsword
+11 : Iron Sword
+12 : Mythril Sword
+13 : Blood Sword
+14 : Ice Brand
+15 : Coral Sword
+16 : Diamond Sword
+17 : Flame Saber
+18 : Rune Blade
+19 : Denfender
+1A : Save The Queen
+1B : Ultima Sword
+1C : Excalibur
+1D : Ragnarok
+1E : Excalibur II
+1F : Javelin
+20 : Mythril Spear
+21 : Partisan
+22 : Ice Lance
+23 : Trident
+24 : Heavy Lance
+25 : Obelisk
+26 : Holy Lance
+27 : Kain's Lance
+28 : Dragon's Hair
+29 : Cat's Claws
+2A : Poison Knuckles
+2B : Mythril Claws
+2C : Scissor Fangs
+2D : Dragon's Claw
+2E : Tiger Fangs
+2F : Avenger
+30 : Kaiser Knuckles
+31 : Duel Claws
+32 : Rune Claws
+33 : Air Racket
+34 : Multina Racket
+35 : Magic Racket
+36 : Mythril Racket
+37 : Priest's Racket
+38 : Tiger Racket
+39 : Rod
+3A : Mythril Rod
+3B : Stardust Rod
+3C : Healing Rod
+3D : Asura's Rod
+3E : Wizard Rod
+3F : Whale Whisker
+40 : Golem's Flute
+41 : Lamia's Flute
+42 : Fairy Flute
+43 : Hamelin
+44 : Siren's Flute
+45 : Angel Flute
+46 : Mage Staff
+47 : Flame Staff
+48 : Ice Staff
+49 : Lightning Staff
+4A : Oak Staff
+4B : Cypress Pile
+4C : Octagon Rod
+4D : High Mage Staff
+4E : Mace Of Zeus
+4F : Fork
+50 : Needle Fork
+51 : Mythril Fork
+52 : Silver Fork
+53 : Bistro Fork
+54 : Gastro Fork
+55 : Pinwheel
+56 : Rising Sun
+57 : Wing Edge
+58 : Wrist
+59 : Leather Wrist
+5A : Glass Armlet
+5B : Bone Wrist
+5C : Mythril Armlet
+5D : Magic Armlet
+5E : Chimera Armlet
+5F : Egoist's Armlet
+60 : N-Kai Armlet
+61 : Jade Armlet
+62 : Thief Gloves
+63 : Dragon Wrist
+64 : Power Wrist
+65 : Bracer
+66 : Bronze Gloves
+67 : Silver Gloves
+68 : Mythril Gloves
+69 : Thunder Gloves
+6A : Diamond Gloves
+6B : Venetia Sheild
+6C : Defense GLoves
+6D : Genji Gloves
+6E : Aegis Gloves
+6F : Gauntlets
+70 : Leather Hat
+71 : Straw Hat
+72 : Feather Hat
+73 : Steepled Hat
+74 : Headgear
+75 : Magus Hat
+76 : Bandana
+77 : Mage's Hat
+78 : Lamia's Tiara
+79 : Ritual Hat
+7A : Twist Headband
+7B : Mantra Band
+7C : Dark Hat
+7D : Green Beret
+7E : Black Hood
+7F : Red Hat
+80 : Golden Hairpin
+81 : Coronet
+82 : Flash Hat
+83 : Adaman Hat
+84 : Thief Hat
+85 : Holy Miter
+86 : Golden Skullcap
+87 : Circlet
+88 : Rubber Helm
+89 : Bronze Helm
+8A : Iron Helm
+8B : Barbut
+8C : Mythril Helm
+8D : Gold Helm
+8E : Cross Helm
+8F : Diamond Helm
+90 : Platinum Helm
+91 : Kaiser Helm
+92 : Genji Helmet
+93 : Grand Helm
+94 : Aloha T-shirt
+95 : Leather Shirt
+96 : Silk Shirt
+97 : Leather Plate
+98 : Bronze Vest
+99 : Cheain Plate
+9A : Mythril Vest
+9B : Adaman Vest
+9C : Magician Cloack
+9D : Survival Vest
+9E : Brigandine
+9F : Judo Uniform
+A0 : Power Vest
+A1 : Gaia Gear
+A2 : Demon's Vest
+A3 : Minerva's Plate
+A4 : Ninja Gear
+A5 : Dark Gear
+A6 : Rubber Suit
+A7 : Brave Suit
+A8 : Cotton Robe
+A9 : Silk Robe
+AA : Magician Robe
+AB : Glutton's Robe
+AC : White Robe
+AD : Black Robe
+AE : Light Robe
+AF : Robe Of Lords
+B0 : Tin Armor
+B1 : Bronzr Armor
+B2 : Linen Cuirass
+B3 : Chain Mail
+B4 : Mythril Armor
+B5 : Plate Mail
+B6 : Gold Armor
+B7 : Shield Armor
+B8 : Demon's Mail
+B9 : Diamond Armor
+BA : Platina Armor
+BB : Carabini Mail
+BC : Dragon Mail
+BD : Genji Armor
+BE : Maximillan
+BF : Grand Armor
+C0 : Desert Boots
+C1 : Magician Shoe
+C2 : Germinas Boots
+C3 : Sandals
+C4 : Feather Boot
+C5 : Battle Boots
+C6 : Running shoes
+C7 : Anklet
+C8 : Power Belt
+C9 : Black Belt
+CA : Glass Buckle
+CB : Madain's Ring
+CC : Rosetta Ting
+CD : Reflect Ring
+CE : Coral Ring
+CF : Promist Ring
+D0 : Rebirth Ring
+D1 : Protect Ring
+D2 : Pumice Piece
+D3 : Pumice
+D4 : Yellow Scarf
+D5 : Gold Chocker
+D6 : Fairy Earrings
+D7 : Angel Earrings
+D8 : Pearl Rouge
+D9 : Pearl Armlet
+DA : Cachusha
+DB : Barette
+DC : Extension
+DD : Ribbon
+DE : Maiden Prayer
+DF : Ancient Aroma
+E0 : Garnet
+E1 : Amethyst
+E2 : Aquanarine
+E3 : Diamond
+E4 : Emerald
+E5 : Moonstone
+E6 : Ruby
+E7 : Peridot
+E8 : Sapphire
+E9 : Opal
+EA : Topaz
+EB : Lapis Lazuli
+EC : Potion
+ED : Hi-Potion
+EE : Ether
+EF : Elixir
+F0 : Phoenix Down
+F1 : Echo Screen
+F2 : Soft
+F3 : Antidote
+F4 : Eye Drops
+F5 : Magic Tag
+F6 : Vaccine
+F7 : Remedy
+F8 : Annoyntment
+F9 : Phoenix Pinion
+FA : Dark Matter
+FB : Gysahl Greens
+FC : Dead Pepper
+FD : Tent
+FE : Ore

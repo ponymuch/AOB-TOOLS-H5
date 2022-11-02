@@ -1,0 +1,9 @@
+*Info*
+P1 = the first player left
+P2 = the next player
+Use the code only at the beginning.
+In the beginning it is decided who is Player 1, who wins.
+Usually.
+It can also change.
+The code remains in the game in memory,
+even if the code is turned off.

@@ -1,0 +1,3 @@
+[Add Stamp Cards with minus]
+80000800
+04100000 6DD40796 008B0000

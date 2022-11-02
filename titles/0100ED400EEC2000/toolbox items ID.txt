@@ -1,0 +1,100 @@
+Story of seasons FOMT USA
+v 1.0.2
+
+Toolbox items ID
+####TOOLS####
+00  Iron Sickle
+01  Copper
+02  Silver
+03  Golden
+04  Mithril
+05  Cursed
+06  Blessed
+07  Mythic Sickle
+
+08  Iron Hoe
+09  
+0A  
+0B  
+0C  
+0D  
+0E  
+0F  Mythic Hoe
+
+10  Iron Axe
+11  
+12  
+13  
+14  
+15  
+16  
+17  Mythic Axe
+
+18  Iron Hammer
+19
+1A
+1B
+1C  
+1D
+1E
+1F  Mythic Hammer
+
+20  Cheap Watering can
+21
+22
+23
+24
+25
+26
+27  Mythic Watering can
+
+28  Cheap Fishing Rod
+29
+2A
+2B
+2C
+2D
+2E
+2F  Mythic Fishing Rod
+51  Brush
+52  Milker
+53  Clippers
+####END TOOLS####
+30  Cow Breeding Kit
+31  Sheep Breeding Kit
+32  Rabbit Breeding Kit
+33  Alpaca Breeding Kit
+####SEEDS####
+34  Turnip
+35  Potato
+36  Cucumber
+37  Strawberry
+38  Cabbage
+39  Tomato
+3A  Corn
+3B  Onion
+3C  Pumpkin
+3D  Pineapple
+3E  Eggplant
+3F  Carrot
+40  Yam
+41  Spinach
+42  Green Pepper
+49  Adzuki Bean
+4A  Chili Pepper
+####END SEEDS####
+4B  Grass Seedling
+####FLOWERS SEEDS####
+4C  Moondrop
+4D  Pink Cat
+4E  Magic Red
+4F  Toy 
+50  Sunsweet
+####END FLOWERS SEEDS####
+56  Blue Feather
+57  Pedometer
+58  Travel Stone
+59  Goddess Treasure
+5A  Kappa Treasure
+5B  Truth Treasure
+5C  Preserved Flower

@@ -1,0 +1,14 @@
+[Player Infinite HP]
+08000000 0927187c 00002af8 00002af8
+
+[Player Infinite Magic Gauge]
+04000000 09271890 00009c40
+
+[Player Infinite Moon Gauge]
+04000000 092721ec 00002710
+
+[CPU No Magic Circuit Gauge]
+04000000 092725b8 00000000
+
+[CPU No Moon Gauge]
+04000000 09272f14 00000000

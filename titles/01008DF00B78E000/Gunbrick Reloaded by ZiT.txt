@@ -1,0 +1,16 @@
+Note1: "Unlimited Items" affects all items, this includes crafting stuff, so be careful when using it.
+Note2: "Don't fall Down" is like a fly cheat, you can move freely in air, but no Up/Down...
+Note3: Toggle Unlimited Items is a code that ONLY works on Atmosphere, this code type is not implemented in SX OS!
+Only press a small amount of time to toggle it, it works like this:
+Code:
+if("Minus" is pressed)
+{
+    R15 = read32(Main + 0x3E7400);
+    if(R15 == 0x4B0C014A) write32(Main + 0x3E7400, 0xD503201F);
+    if(R15 == 0xD503201F) write32(Main + 0x3E7400, 0x4B0C014A);
+}
+The game has a really strange way to hide it's values and it does memory crc checks. (most likely a remnant from the pc version)
+0xCEDA2313 = Health
+0x68ED562C = Oxygen
+0x60D64632 = Mana
+these values are used together with "keen::impactsystem::findAttribute", but i couldn't find any decrease or damage function, only fall damage and death...

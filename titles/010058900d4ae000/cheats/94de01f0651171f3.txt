@@ -1,0 +1,12 @@
+[Inf Food 99 @Matias3ds]
+01000000 04b1ad0c 00000063
+
+[Inf wood 99 @Matias3ds]
+01000000 04b1ad10 00000063
+
+[Inf Coins 99 @Matias3ds]
+01000000 04b1ad14 00000063
+
+
+
+

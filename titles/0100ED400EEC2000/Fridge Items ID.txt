@@ -1,0 +1,206 @@
+Story of seasons FOMT USA
+v 1.0.2
+
+Fridge Items IDs
+
+00  Turnip
+01  Potato
+02  Cucumber
+03  Strawberries
+04  Cabbage
+05  Tomato
+06  Corn
+07  Onion
+08  Pumpkin
+09  Pineapple
+0A  Eggplant
+0B  Carrot
+0C  Yam
+0D  Spinach
+0E  Green Pepper
+15  Adzuki Beans
+16  Chili Peppers
+17  Regular Egg
+18  Good Egg
+19  Excellent Egg
+1A  Golden Egg
+1B  Platinum Egg
+1C  X Egg
+1D  Hot Spring Egg
+1E  Mayonnaise(S)
+1F  Mayonnaise(M)
+20  Mayonnaise(L)
+21  Mayonnaise(G)
+22  Mayonnaise(P)
+23  Mayonnaise(X)
+24  Milk(S)
+25  Milk(M)
+26  Milk(L)
+27  Milk(G)
+28  Milk(P)
+29  Milk(X)
+2A  Coffee Milk(S)
+2B  Coffee Milk(M)
+2C  Coffee Milk(L)
+2D  Coffee Milk(G)
+2E  Coffee Milk(P)
+2F  Coffee Milk(X)
+30  Fruit Milk(S)
+31  Fruit Milk(M)
+32  Fruit Milk(L)
+33  Fruit Milk(G)
+34  Fruit Milk(P)
+35  Fruit Milk(X)
+36  Strawberry Milk(S)
+37  Strawberry Milk(M)
+38  Strawberry Milk(L)
+39  Strawberry Milk(G)
+3A  Strawberry Milk(P)
+3B  Strawberry Milk(X)
+3C  Cheese(S)
+3D  Cheese(M)
+3E  Cheese(L)
+3F  Cheese(G)
+40  Cheese(P)
+41  Cheese(X)
+42  Apple
+43  Honey
+44  Orange
+45  Bamboo Shoot
+46  Wild Grapes
+47  Mushroom
+48  Poison Mushroom
+49  Matsutake
+4A  Chestnut
+4B  Blue Grass
+4C  Green Grass
+4D  Red Grass
+4E  Yellow Grass
+4F  Orange Grass 
+50  Purple Grass
+51  Indigo Grass
+52  Black Grass
+53  White Grass
+54  Mystery Flower
+55  Stamina Booster
+56  Stamina Booster XL
+57  Caffeine
+58  Super Caffeine
+59  Premium Grape Juice
+5A  Grape Juice
+5B  Onigiri
+5C  Bread
+5D  Oil
+5E  Wheat Flour
+5F  Curry Powder
+60  Dango Flour
+61  Chocolate
+62  Relax Tea Leaves
+63  SUGDW Apple
+64  HMSGB Apple
+65  AEPFE Apple
+66  Buckwheat Flour
+67  Wild Grape Water
+68  Salad
+69  Curry Rice
+6A  Stew
+6B  Miso Soup
+6C  Vegetable Stir Fry
+6D  Fried Rice
+6E  Okonomiyaki
+6F  Sandwich
+70  Fruit Juice
+71  Veggie Juice
+72  Mixed Juice
+73  Fruit Smoothie
+75  Mixed Smoothie
+76  Strawberry Milk
+7A  French Fries
+7C  Ketchup
+7D  Popcorn
+7F  Roasted Corn
+80  Pineapple Juice
+84  Yam Dessert
+85  Baked Yam
+87  Tamagoyaki
+89  Omelet Rice
+8A  Boiled Egg
+8C  Butter
+8D  Cheesecake
+8E  Cheese Fondue
+8F  Apple Pie
+91  Baked Apple
+92  Mushroom Rice
+93  Bamboo Rice
+94  Matsutake Rice
+95  Sushi
+98  Raisin Bread
+9A  Curry Bread
+9B  Sashimi
+9C  Grilled Fish
+9E  Pizza
+9F  Udon
+A0  Curry Udon
+A1  Tempura Udon
+A3  Zaru Soba
+A4  Tempura Soba
+A7  Cookies
+A8  Chocolate Cookies
+A9  Tempura
+AA  Ice Cream
+AB  Cake
+AD  Relax Tea
+AF  French Toast
+B0  Pudding
+B2  Moon Dumplings
+B3  Mochi
+B5  Elli Leaves
+BD  Small Fish
+BE  Medium Fish
+BF  Large Fish
+C5  Pancakes
+C9  Mashed Potatoes
+CA  Baumkuchen
+CB  Acqua Pazza
+CC  Ajillo
+CD  Churros
+CE  Paella
+CF  Fish Soup
+D0  Almond Tofu
+D1  Palbochae
+D2  Pepper Steak
+D3  Seafood Rice Bowl
+D4  Oden
+D5  Napolitan
+D6  Eggs Benedict
+D7  Pumpkin Potage
+D8  Pot-au-Feu
+D9  Carpaccio
+DA  Quiche
+DB  Cheese Souffle
+DC  Bagna Cauda
+DD  Carbonara
+DE  Margherita
+DF  Cheese Risotto
+E0  Fish Fritters
+E1  Nasi Goreng
+E2  Madeleines
+E3  Strawberry Cake
+E4  Bibimbap
+E5  Vegetable Pizza
+E6  Mushroom Gratin
+E7  Ramen
+E8  Daifuku
+E9  Dorayaki
+EA  Orangettes
+EB  Candied Peels
+EC  Orange Pastries
+ED  Zenzai
+EE  Chestnut Rice
+EF  Roasted Chestnuts
+F0  Mont Blanc
+F1  Spicy Pepper Steak
+F2  Spicy Ramen
+F3  Spicy Vegetable Stir Fry
+F4  Spicy Sandwitch
+F5  Spicy Margherita

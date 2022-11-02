@@ -1,0 +1,8 @@
+[Invulnerable]
+04000000 00165814 D503201F
+
+[Free Upgrades]
+04000000 001FD1D4 52800000
+
+[Remove Upgrade Level Restriction]
+04000000 0045D0AC 52800001

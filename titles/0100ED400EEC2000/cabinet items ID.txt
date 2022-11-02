@@ -1,0 +1,155 @@
+Story of seasons FOMT USA
+V 1.0.2
+
+Cabinet Items ID
+
+####FLOWERS####
+100  Moondrop
+101  Pink Cat
+102  Blue Magic Red
+103  True Magic Red
+104  Toy 
+105  Sunsweet
+####END FLOWERS####
+####ANIMALS ITEMS####
+106  Wool(S)
+107  Wool(M)
+108  Wool(L)
+109  Wool(G)
+10A  Wool(P)
+10B  Wool(X)
+10C  Alpaca Fleece(S)
+10D  Alpaca Fleece(M)
+10E  Alpaca Fleece(L)
+10F  Alpaca Fleece(G)
+110  Alpaca Fleece(P)
+111  Alpaca Fleece(X)
+112  Angora Rabbit Fur(S)
+113  Angora Rabbit Fur(M)
+114  Angora Rabbit Fur(L)
+115  Angora Rabbit Fur(G)
+116  Angora Rabbit Fur(P)
+117  Angora Rabbit Fur(X)
+118  Yarn(S)
+119  Yarn(M)
+11A  Yarn(L)
+11B  Yarn(G)
+11C  Yarn(P)
+11D  Yarn(X)
+####END ANIMALS ITEMS####
+####MINES MATERIALS####
+11E  Scrap Ore
+11F  Copper
+120  Silver
+121  Gold
+122  Mithril
+123  Orichalcum
+124  Adamantite
+125  Moonstone
+126  Sandrose
+127  Pink Diamond
+128  Alexandrite
+129  Mythic Ore
+12A  Diamond
+12B  Emerald
+12C  Ruby
+12D  Topaz
+12E  Peridot
+12F  Fluorite
+130  Agate
+131  Amethyst
+####END MINES MATERIALS####
+132  Goddess Jewel
+133  Kappa Jewel
+134  Truth Jewel
+135  Spring Sun
+136  Summer Sun
+137  Autumn Sun
+138  Winter Sun
+139  Bracelet
+13A  Necklace
+13B  Earrings
+13C  Brooch
+13D  Weed
+13E  Stone
+13F  Branch
+140  Tomatosetta Stone
+141  Letter in a Bottle
+142  Ball
+143  Pirate Treasure
+144  Ancient Fossil
+145  Empty Can
+146  Boot
+147  Fishbone
+148  Karen's Wine
+149  Popuri's Dorodango
+14A  Ran's Music Box
+14B  Marie's Book
+14C  Elly's Pressed Flowers
+14D  Van's Favorite
+14E  Remote Control
+14F  Master Shopper Award
+150  Quiz Book
+151  Goddess'Present
+152  Record 1
+153  Record 2
+154  Record 3
+155  Record 4
+156  Record 5
+157  Record 6
+158  Record 7
+159  Record 8
+15A  Record 9
+15B  Record 10
+15C  Record 11
+15D  Record 12
+15E  Record 13
+15F  Record 14
+160  Record 15
+161  Record 16
+162  Record 17
+163  Record 18
+164  Record 19
+165  Record 20
+167  100 Win Streak Item Book
+169  All Letters
+16A  Perfume
+16B  Photo
+16D  All Books
+16E  Invitation
+16F  Dress
+170  Face Pack
+171  Lotion
+172  Sunblock
+174  Lumber
+175  Material Stone
+176  Golden Lumber
+177  Fodder
+178  Chicken/Rabbit Feed
+179  RPS Master Certifiction
+17A  Disc
+17B  Rick's Wristwatch
+17C  Kai's Sea Charm
+17D  Cliff's Flower Ornament
+17E  Gray's Brooch
+17F  Doctor's Therapy Merch
+180  Mysterious Ticket
+181  Jennifer's Potpourri
+182  Brandon's Mini Artwork
+183  Brandon's Love Sculpture
+184  Cluck-Cluck Clash Trophy
+185  Moo-Moo Fest Trophy
+186  Fluffy Fest Trophy
+187  Kappa Statue
+188  Goddess Statue
+189  Nature Sprite Statue
+18C  Jade
+18D  Sapphire
+18E  Aquamarine
+18F  Garnet
+190  Turquoise
+191  Pet Treat
+192  Gray's Present
+193  All BGM
+195  Power Berry ???
+1A3  Alexandrite

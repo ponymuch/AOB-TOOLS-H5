@@ -1,0 +1,12 @@
+{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}
+
+[*Inf Time Jericoss]
+580F0000 02CED718
+580F1000 000000B8
+580F1000 00000018
+580F1000 00000020
+780F0000 00000094
+640F0000 00000000 41000000
+
+
+

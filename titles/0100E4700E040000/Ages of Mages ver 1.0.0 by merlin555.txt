@@ -1,0 +1,6 @@
+for v1.0.0
+
+*Info*
+Only one player support.
+The addresses often change back and forth, so that it makes no sense.
+When the energies stop working, restart the game.

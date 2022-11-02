@@ -1,0 +1,9 @@
+Do NOT use this code to food, fish and equip,
+only use to stackable material item
+
+Dupe code added:
+how to
+Prepare item stack that have more than 2 items
+Separate stack by selecting twice
+Hand original stack
+Push Left Stick,then original stack size will recovery to step 1

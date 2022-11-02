@@ -1,0 +1,7 @@
+My cheats only works on the most latest version v1.01
+Items will unlock, if you don't have.
+100LV will be appeared when a battle is finished. (i.e. the moment of LV up)
+For the Max HP cheat, it will always appear on the first character, if you change the actor by pressing UP, all other character and emery will have a HP of 45/45 Heart. (Max 140 actors) I recommend you use this cheat together with #3 & #4.
+
+Due to the limitation of SXOS and the codes are too long,
+if you face the cheat doesn't work, you may press - to disable all the cheats and enable them one by one.

@@ -1,0 +1,3 @@
+NOTE:
+If stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).
+Stat changes will be made when you teleport in/out or level up.

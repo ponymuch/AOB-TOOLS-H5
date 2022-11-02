@@ -1,0 +1,6 @@
+Hearts MAX are not infinite.
+Works only with a new charackter !!
+Press the Minus button several times until the maximum heart is reached.
+Each character and weapon has a different number of MAX hearts.
+7 to 20 hearts are possible from beginning.
+Then press "X" and forgive the points in Endurance until you have 20 hearts.

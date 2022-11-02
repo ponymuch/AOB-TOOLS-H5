@@ -1,0 +1,9 @@
+for v1.0.1
+
+*Info*
+Code only works after a loss of life.
+If the code is activated during loading, you get a fake value.
+Value freezes at 2.
+
+To the side Tinfoil and CheatSlips !
+Spreading codes outside of GBAtemp is prohibited!

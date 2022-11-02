@@ -1,0 +1,40 @@
+Item ID= xxxxxxxx
+Code:
+00000000:Handgun
+00000001:Handgun Bullets
+00000002:Painkillers
+00000003:Combat Shotgun
+00000004:Shotgun Shells
+00000005:Submachine Gun
+00000006:SMG Rounds
+00000007:Magnum
+00000008:Magnum Rounds
+00000009:Hunting knife
+0000000A:Ointment
+0000000B:Coagulant
+0000000C:Aid Spray
+0000000D;Remedy
+0000000E:First Aid Kit
+0000000F:Pouch
+00000010:Old Key
+00000011:Floppy Disk
+00000012:Grenade Launcher
+00000013:Grenade Rounds
+00000014:Small Key
+00000015:Cutters
+00000016:Screwdriver
+00000017:Wire Coil
+00000018:C4
+00000019:Detonator
+0000001A:Car Key
+0000001B:Ticket
+0000001C:Ornate Key
+0000001D:Security Card A
+0000001E:Security Card B
+0000001F:Reinforced Key
+00000020:Valve
+00000021:Lockpick
+00000022:Sledgehammer
+00000023:Fire Axe
+00000024:Empty Battery
+00000025:Charged Battery

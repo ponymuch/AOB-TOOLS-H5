@@ -1,0 +1,7 @@
+{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}
+
+[Free shops]
+04000000 0169FB44 350004E8
+
+[Free shops (off)]
+04000000 0169FB44 340004E8

@@ -1,0 +1,1 @@
+****If you need HP/AP code for 3rd char, add 8h for 5th line

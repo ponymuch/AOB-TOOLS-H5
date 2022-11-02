@@ -1,0 +1,6 @@
+the fourth line in the item is this:
+01 - the rubber "things?"
+02 - Destruction Powerup (default if you use it as is...)
+03 - WTF?! Powerup
+04 - beer keg
+05 - F bombs(edited)

@@ -1,0 +1,18 @@
+[Empire of Sin v1.05.0.43225m (v393216) ]
+[ TID: 010058600E530000  BID: 8EB54AE3E9CD284D ]
+[-------------------------------------------------------]
+
+[Developer Mode]
+040E0000 015708BC 14000008
+
+[-------------------------------------------------------]
+
+[Note: Please load cheats immediately when starting the game. ]
+[If the main menu does not appear > "Development" QA Perf Test,]
+[please enter the game and exit to the main menu for reloading. ]
+
+[After entering the developer mode, you can pause the game,]
+[and then select "Developer Options". ]
+[There are many cheating functions in the Cheat option. Enjoy!]
+
+[Created by Eiffel2018]

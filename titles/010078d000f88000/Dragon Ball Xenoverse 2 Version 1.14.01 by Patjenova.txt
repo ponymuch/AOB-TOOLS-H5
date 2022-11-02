@@ -1,0 +1,2 @@
+Do not activate bojack if you did not do his first mission or your game will crash.
+Search online for the clothes id. I don't have them. I only did 3 of my test outfits to check it out.

@@ -1,0 +1,32 @@
+[musou gokui inf time on]
+04000000 00028528 D65F03C0
+
+[musou gokui inf time off]
+04000000 00028528 FC1B0FE8
+
+[rengi guage 31x up]
+04000000 00029850 1E27F001
+
+[musou guage 31x up]
+04000000 00026F70 1E27F002
+
+[enemies no attack on]
+04000000 000949F8 D65F03C0
+
+[enemies no attack off]
+04000000 000949F8 6DBB23E9
+
+[speed run normal]
+04000000 0001E48C 1E2E100A
+
+[speed run 1.25x]
+04000000 0001E48C 1E2E900A
+
+[speed run 1.5x]
+04000000 0001E48C 1E2F100A
+
+[speed run 1.75x]
+04000000 0001E48C 1E2F900A
+
+[speed run 2x]
+04000000 0001E48C 1E20100A

@@ -1,0 +1,6 @@
+[Ship Energy unlimited]
+01100000 20049014 00000008
+
+[Human Energy unlimited]
+01100000 20049674 00000008
+

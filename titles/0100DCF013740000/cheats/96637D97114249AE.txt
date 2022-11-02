@@ -1,0 +1,10 @@
+[1p invincible]
+04000000 0274D268 340000AD
+
+grafic size
+
+[hit range normal]
+04000000 009917D8 1E2E1001
+
+[hit range 1.25x]
+04000000 009917D8 1E2E9001

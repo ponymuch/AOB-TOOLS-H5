@@ -1,0 +1,14 @@
+[Player Infinite HP v104]
+08000000 092619e4 00002af8 00002af8
+
+[Player Infinite Magic Circuit Count]
+04000000 092619f8 00009c40
+
+[Player Infinite Moon Gauge]
+04000000 09262344 00002710
+
+[CPU No Magic Circuit Gague]
+04000000 09262708 00000000
+
+[CPU No Moon Gauge]
+04000000 09263054 00000000

@@ -1,0 +1,4 @@
+{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}
+
+[*Lives 8 Jericoss]
+01000000 00AE0BE0 00000008
